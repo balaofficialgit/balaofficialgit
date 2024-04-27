@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/balaofficialgit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dss" height="30" width="40" /></a>
 <a href="https://twitter.com/zfasdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zfasdf" height="30" width="40" /></a>
-<a href="https://medium.com/@dfsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dfsf" height="30" width="40" /></a>
+<a href="https://medium.com/@balaofficialacc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dfsf" height="30" width="40" /></a>
 <a href="/sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sd" height="30" width="40" /></a>
 </p>
 
