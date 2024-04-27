@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bala</h1>
 <h3 align="center">A passionate App(Native,Flutter),Backend(Nodejs) developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaofficialgit&label=Profile%20views&color=0e75b6&style=flat" alt="balaofficialgit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xhvxh&label=Profile%20views&color=0e75b6&style=flat" alt="xhvxh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xvfsf" alt="xvfsf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balaofficialgit" alt="xvfsf" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/zfasdf" target="blank"><img src="https://img.shields.io/twitter/follow/zfasdf?logo=twitter&style=for-the-badge" alt="zfasdf" /></a> </p>
 
